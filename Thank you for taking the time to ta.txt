@@ -1,0 +1,30 @@
+Thank you for taking the time to take a look at my first Port folio website, using CSS and HTML.
+
+My main objective of this webpage was to demonstrate my fundamental understanding of both HTML and CSS.
+
+I have learned a lot from this project through my many trials and errors. A lot of my content I will use in future projects and more that I will revise and refine to make more intuitive. In this short dialogue, I will elaborate on several aspects that stood out.
+
+What Went Well?
+I believe that the interactivity that my CSS bought to the project helped give it personality and life. For example, instead of having a never ending scroll of information in my employment history page, I put the most important info in large and the smaller less necessary information would scale in size when the curser hovered over the section. 
+I used this universally throughout all pages, which allowed for a compact and info rich page, without giving it a compact feeling.
+
+The styling of the page was another point of pride. I think that the project has a neutral colour scheme that does not offend the eyes, whilst main tinging a form of visual stimulation. The grey and baby blue does not give off any unprofessional tones which needed accounting for considering that it is an interactive Curriculum vitae. 
+furthermore, the rounded edges on sections allowed for a less harsh look. This adds to the previous mentioned unoffensive look of the page.
+
+What can I improve on? 
+
+Upon reflection, there are a lot of things I need to refine. For example, I believe that the page needs to scale better depending on the width and height of the browser. I noticed that the navigation bar is very cramped and needs refinement when in a smaller tab. 
+
+My tidiness of code needs to be improved. For example, using one metric of size would have made life significantly easier. Perhaps using rem would have made a more standard sizing for all of my text. 
+
+To further my interactivity, I will be integrating my JavaScript knowledge in the next revision! This should allow for more user interactivity and friendliness. 
+
+
+
+ My takeaways from having an opportunity to play with HTML and CSS were:
+
+- CSS can save SO MUCH time when it comes to making standardised web pages. I was able to create a theme that was consistent, interactive elements that I didn't have to copy paste all over the place and reduce the amount of code needed for the same results. 
+
+- HTML can be a made so much more powerful with the addition of CSS as the class attribute is all you need to attach a slue of properties. 
+
+- Trough making my own style sheet, I now understand and look forward to integrating libraries that will further reduce workload!  

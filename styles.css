@@ -1,0 +1,140 @@
+body {
+background-color: lightblue;
+font-family: 'Cascadia Code';
+margin-top: 3rem;
+margin-bottom: 3rem;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+
+.first {
+    font-size: 1rem;
+    text-align: center;
+}
+
+
+h2{
+    font-size: 2rem;
+}
+
+.profile{
+float:right;
+width: 20%;
+padding: 0.5rem;
+border-radius: 55rem;
+
+}
+
+header > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5px;
+
+}
+
+nav{
+    flex: 1;
+    background-color: slategray;
+    border-radius: 3rem;
+    margin: 7px;
+    padding: 10px;
+}
+
+
+.icons{
+    display: flex;
+}
+
+
+ul li a {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding: 35px;
+  text-decoration: none;
+  background-color: slategray;
+  margin: 3rem;
+  padding: 0.5rem;
+  border-radius: 2rem;
+  transition: all 0.7s ease;
+}
+
+ul li a:hover{
+    background-color: lightgray;
+    transition: .5s;
+    color: black;
+    font-size: 32px;
+}
+
+
+
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+}
+
+section {
+    display: flex;
+    flex: 1;
+        background-color: slategray;
+    border-radius: 1rem;
+    margin: 2px;
+    padding: 10px;
+}
+
+article{
+    flex: 1;
+    background-color: slategray;
+    border-radius: 1rem;
+    margin: 2px;
+    padding: 10px;
+    transition: all 0.5s ease;
+}
+
+article:hover{
+    background-color:lightgray;
+    transition: 1s;
+    font-size: 32px;
+}
+
+.ICON{
+    flex: 1;
+    background-color: slategray;
+    border-radius: 4rem;
+    margin: 10px;
+    padding: 15px;
+    transition: all 0.7s ease;
+
+}
+
+.ICON:hover{
+    background-color:lightgray;
+    transition: 1s;
+    font-size: 32px;
+    height: 250px;
+    width: 250px;
+    justify-content: center;
+}
+
+
+
+
+footer {
+    display: flex;
+}
+
+footer div{
+    flex: 1;
+    border-radius: 3rem;
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
